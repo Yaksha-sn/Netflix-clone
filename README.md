@@ -2,18 +2,12 @@
 
 A fully responsive Netflix Clone built with modern web technologies. This project replicates the look and feel of Netflix's UI and implements core features like movie browsing, authentication, and real-time content fetching.
 
-🔗 **Live Demo:** *[Add your deployment link here]*  
-📁 **Repository:** https://github.com/Yaksha-sn/Netflix-clone
-
----
-
 ## 🚀 Features
 
 - ✅ Responsive Netflix-like UI
 - 🔐 Firebase Authentication (Sign In / Sign Up)
 - 🎞️ Dynamic movie listings via The Movie Database (TMDB) API
-- ❤️ Add/Remove from personal "My List"
-- 🔍 Search functionality
+- ❤️ View movie trailer via iframe
 - 🌙 Dark theme
 
 ---
@@ -23,7 +17,6 @@ A fully responsive Netflix Clone built with modern web technologies. This projec
 - **Frontend**: React, Redux, CSS Modules / Tailwind CSS / Styled Components *(depending on your implementation)*
 - **Authentication**: Firebase Auth
 - **API**: TMDB API
-- **Hosting**: Firebase / Vercel / Netlify *(depending on where it's deployed)*
 
 ---
 
@@ -36,14 +29,6 @@ A fully responsive Netflix Clone built with modern web technologies. This projec
 
 ---
 
-## 📌 Todo / Improvements
-
-- [ ] Add user profile selection like Netflix
-- [ ] Improve search with debouncing
-- [ ] Add trailer previews using YouTube API
-- [ ] Optimize for performance (lazy loading, code splitting)
-
----
 
 ## 🙌 Acknowledgments
 
@@ -52,10 +37,3 @@ A fully responsive Netflix Clone built with modern web technologies. This projec
 - UI inspiration from [Netflix](https://www.netflix.com/)
 
 ---
-
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Would you like help adding badges, deployment instructions, or improving SEO for this repo?
